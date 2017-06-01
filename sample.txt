@@ -1,2 +1,2 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
-hihi
+add: Đăng ký thay đổi trong index
